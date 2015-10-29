@@ -15,6 +15,10 @@
  * Measuring Angle: 30 degree
  * Trigger Input Pulse width: 10uS
  * Dimension: 45mm x 20mm x 15mm 
-* In the manual, the effective angle value & ranging distance is not very clear. We searched 
+* In the manual, the effective angle value & ranging distance is not very clear. We searched forum discussion and we will take parameters of the sensor as following:
+ * Measurement angle: 22 degree
+ * Ranging Distance: 150cm
+
+Based on those parameters, the layout and coverage is shown as below.
 
 # 
