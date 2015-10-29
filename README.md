@@ -20,7 +20,7 @@
  * Vertical FOV: **4°** 
  * Ranging Distance: **150cm**
 
-# Layout design
+# LAYOUT DESIGN
 * Based on those parameters, the layout design and coverage is shown as below.
 
 ![](https://github.com/wennycooper/ANDBOT-ULTRASONIC-SENSORS-LAYOUT/blob/master/image.png)
