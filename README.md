@@ -26,5 +26,5 @@
 ![](https://github.com/wennycooper/ANDBOT-ULTRASONIC-SENSORS-LAYOUT/blob/master/image.png)
 
 * OBSTACLE RANGES
-  * We will install the sensors in prototype and fine tune the **"obstacle_range"** parameter in **costmap_common_params.yaml**
-   * We will assume it should be around 50cm 
+  * We will test the sensors in prototype and fine tune the **"obstacle_range"** & **"raytrace_range"** parameters in **costmap_common_params.yaml**
+   * It should be 50cm+ 
