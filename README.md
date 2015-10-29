@@ -15,11 +15,13 @@
  * Measuring Angle: 30 degree
  * Trigger Input Pulse width: 10uS
  * Dimension: 45mm x 20mm x 15mm 
-* In the manual, the effective angle value & ranging distance is not very clear. We searched forum discussions and we will take parameters of the sensor as following:
- * Measurement angle: **22 degree**
+* In the manual, the effective angle value & ranging distance is not very clear. We searched forum discussions and we will take parameters of the sensor as below:
+ * Horizon FOV: **22°**
+ * Vertical FOV: **4°** 
  * Ranging Distance: **150cm**
 
 Based on those parameters, the layout and coverage is shown as below.
 
 ![](https://github.com/wennycooper/ANDBOT-ULTRASONIC-SENSORS-LAYOUT/blob/master/image.png)
-# 
+
+# OBSTACLE RANGES
