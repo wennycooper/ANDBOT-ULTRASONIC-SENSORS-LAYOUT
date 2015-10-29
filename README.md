@@ -20,8 +20,9 @@
  * Vertical FOV: **4°** 
  * Ranging Distance: **150cm**
 
-Based on those parameters, the layout and coverage is shown as below.
+# Based on those parameters, the layout design and coverage is shown as below.
 
 ![](https://github.com/wennycooper/ANDBOT-ULTRASONIC-SENSORS-LAYOUT/blob/master/image.png)
 
-# OBSTACLE RANGES
+ * OBSTACLE RANGES
+  * We will install the sensors in prototype and fine tune the **"obstacle_range"** parameter in **costmap_common_params.yaml**
