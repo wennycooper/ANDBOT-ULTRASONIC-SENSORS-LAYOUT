@@ -26,3 +26,4 @@
 
  * OBSTACLE RANGES
   * We will install the sensors in prototype and fine tune the **"obstacle_range"** parameter in **costmap_common_params.yaml**
+   * We will assume it should be around 50cm 
