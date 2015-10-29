@@ -1,5 +1,5 @@
 # INTRODUCION
-* The horizontal Lidar sensor in ANDBOT is located 45cm off-the-ground.
+* The horizontal Lidar sensor in ANDBOT is located at 45cm off-the-ground.
 * In in-door environment, there could be obstacles closed to the ground, which can not be detected by Lidar sensor.
 * We put ultrasonic sensors to detect those obstacles.
 * This document describes the ultrasonic hardware layout design. 
