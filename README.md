@@ -21,4 +21,5 @@
 
 Based on those parameters, the layout and coverage is shown as below.
 
+![](https://github.com/wennycooper/ANDBOT-ULTRASONIC-SENSORS-LAYOUT/blob/master/image.png)
 # 
