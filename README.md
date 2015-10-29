@@ -5,7 +5,7 @@
 * This document describes the ultrasonic hardware layout design. 
 
 # ULTRASONIC SENSOR
-* SENSOR SPEC
+* SENSOR SPEC (https://docs.google.com/document/d/1Y-yZnNhMYy7rwhAgyL_pfa39RsB-x2qR4vP8saG73rE/edit)
  * Power supply:+5V DC
  * Quiescent Current: <2mA
  * Working Currnt: 15mA
