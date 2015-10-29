@@ -5,17 +5,16 @@
 * This document describes the ultrasonic hardware layout design. 
 
 # ULTRASONIC SENSOR
-
 * SENSOR SPEC
-** Power supply:+5V DC
-** Quiescent Current: <2mA
-** Working Currnt: 15mA
-** Effectual Angle: <15°
-** Ranging Distance : 2cm – 400 cm/1" - 13ft
-** Resolution : 0.3 cm
-** Measuring Angle: 30 degree
-** Trigger Input Pulse width: 10uS
-** Dimension: 45mm x 20mm x 15mm 
+ * Power supply:+5V DC
+ * Quiescent Current: <2mA
+ * Working Currnt: 15mA
+ * Effectual Angle: <15°
+ * Ranging Distance : 2cm – 400 cm/1" - 13ft
+ * Resolution : 0.3 cm
+ * Measuring Angle: 30 degree
+ * Trigger Input Pulse width: 10uS
+ * Dimension: 45mm x 20mm x 15mm 
 * In the manual, the effective angle value & ranging distance is not very clear. We searched 
 
 # 
